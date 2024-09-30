@@ -5,6 +5,7 @@ const config: CapacitorConfig = {
   appName: 'codePudin',
   webDir: 'www',
 
+  // https://capacitorjs.com/docs/apis/splash-screen
   plugins: {
     SplashScreen: {
       launchShowDuration: 0,
