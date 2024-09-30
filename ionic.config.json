@@ -1,0 +1,7 @@
+{
+  "name": "icon-splash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
